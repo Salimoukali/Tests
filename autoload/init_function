@@ -1,0 +1,5 @@
+#!/bin/ksh
+
+function Affichage {
+echo "INFO : $1"
+}
